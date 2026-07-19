@@ -14,4 +14,14 @@ Key capabilities include:
 * Channel performance analysis
 * Customer segmentation insights
 * Data quality observations
+## Analytics Copilot Output
+
+
+The copilot identified key insights including:
+
+* Gauteng as the largest subscriber market.
+* A predominantly male subscriber base with opportunities to improve demographic data completeness.
+* Peak viewing activity occurring during afternoon hours.
+* Strong audience engagement with sports-related content.
+* Data quality issues affecting demographic segmentation.
 
