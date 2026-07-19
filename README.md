@@ -25,3 +25,21 @@ The copilot identified key insights including:
 * Strong audience engagement with sports-related content.
 * Data quality issues affecting demographic segmentation.
 
+
+## Technologies Used
+
+* Databricks SQL
+* Databricks Genie
+* GitHub
+* SQL Analytics
+
+## Key Insights Generated
+
+The copilot identified:
+
+* Subscriber demographic patterns.
+* Geographic distribution of subscribers.
+* Peak viewing periods.
+* Popular channels.
+* Data quality issues affecting analysis.
+
